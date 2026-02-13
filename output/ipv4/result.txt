@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2026-02-13 18:52:41,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-14 06:42:37,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-11,http://69.30.246.194/live/cctv11.m3u8
 CCTV-12,http://69.30.246.194/live/cctv12.m3u8
@@ -20,9 +21,9 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
-浙江卫视,http://69.30.246.194/live/zjws.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://69.30.246.194/live/zjws.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
@@ -30,8 +31,8 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
@@ -40,6 +41,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 ☘️广东频道,#genre#
+广东体育,http://27.41.245.32:801/hls/204/index.m3u8
 
 ☘️浙江频道,#genre#
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
