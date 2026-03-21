@@ -1,10 +1,8 @@
 🕘️更新时间,#genre#
-2026-03-21 06:38:29,http://107.150.60.122/live/cctv5p.m3u8
+2026-03-21 18:37:36,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
-CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 
 💰央视付费频道,#genre#
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
@@ -14,10 +12,10 @@ CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 广西卫视,http://107.150.60.122/live/gxwshd.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 ☘️广东频道,#genre#
 
@@ -25,7 +23,6 @@ CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 
 ☘️北京频道,#genre#
 
@@ -36,6 +33,7 @@ CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 ☘️江苏频道,#genre#
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️湖北频道,#genre#
@@ -57,8 +55,6 @@ CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 
 ☘️河北频道,#genre#
-
-☘️甘肃频道,#genre#
 
 ☘️新疆频道,#genre#
 
